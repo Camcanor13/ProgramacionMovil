@@ -8,17 +8,17 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1010647157966:android:50414fe838aa0c3a6c549f",
+        "mobilesdk_app_id": "1:1010647157966:android:c2c29da684e0d9f26c549f",
         "android_client_info": {
-          "package_name": "com.MonitoriaApp"
+          "package_name": "com.primeraprueba"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1010647157966-f9ha9ui3bcruienter7ggfjo5kh0f2km.apps.googleusercontent.com",
+          "client_id": "1010647157966-kund58ihls55inspp89sksresregveab.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.MonitoriaApp",
+            "package_name": "com.primeraprueba",
             "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
           }
         },
