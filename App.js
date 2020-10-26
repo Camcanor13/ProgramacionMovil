@@ -45,7 +45,7 @@ export default class FormulApp extends Component{
   }
   render() {  // No lo entiendo
     return (
-     // <ImageBackground source={backgroundImage} style={styles.backgroundLogin}>
+     // <ImageBackground source={backgroundImage} style={ styles.backgroundLogin}>
       <View style={styles.container}>
         <View>
           <Text style= {styles.titulo}>Bienvenido </Text>
