@@ -58,6 +58,7 @@ export default class Login extends Component {
             style={styles.input}
             placeholder="Contraseña"
             value={this.state.contraseña}
+            secureTextEntry={true}
             onChangeText={(contraseña) => this.changeContraseña(contraseña)}
           />
           <TouchableHighlight

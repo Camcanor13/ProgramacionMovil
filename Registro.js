@@ -74,12 +74,14 @@ export class Registro extends Component {
             style={styles.input}
             placeholder="Contraseña"
             value={this.state.contraseña}
+            secureTextEntry={true}
             onChangeText={(contraseña) => this.changeContraseña(contraseña)}
           />
           <TextInput
             style={styles.input}
             placeholder="Confirmar Contraseña"
             value={this.state.contraseña2}
+            secureTextEntry={true}
             onChangeText={(contraseña) => this.changeContraseña2(contraseña)}
           />
           <TouchableHighlight
